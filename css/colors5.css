@@ -1,0 +1,92 @@
+/*===== VARIABLES CSS =====*/
+
+:root {
+    --header-height: 6rem;
+    /*========== Colors ==========*/
+    --first-color: #069C54;
+    --first-color-alt: #048654;
+    --title-color: #393939;
+    --text-color: #000000;
+    --text-color-light: #A6A6A6;
+    --body-color: #f37006;
+    --container-color: #FFFFFF;
+    --color-iconos: #f6f611;
+    /*paleta 1 azul-verde
+    --primario-oscuro-color: #00796b;
+    --primario-claro-color: #b2dfdb;
+    --primario-color: #009688;
+    --texto-icono-color: #FFFFFF;
+    --texto-primario-color: #212121;
+    --contraste-primario: #00BCD4;
+    --texto-secundario-color: #757575;
+    --margenes-color: #BDBDBD;
+    */
+    /*paleta 2  violeta 
+    --primario-oscuro-color: #812ca6;
+    --primario-claro-color: #b06fcd;
+    --primario-color: #e355c8;
+    --texto-icono-color: #FFFFFF;
+    --texto-primario-color: #212121;
+    --contraste-primario: #5c84ee;
+    --texto-secundario-color: #8174ab;
+    --margenes-color: #c1cae0;
+    */
+    /*paleta 3 rojo-azul- amarillo
+    --primario-oscuro-color: #ef476f;
+    --primario-claro-color: #06d6a0;
+    --primario-color: #118ab2;
+    --texto-icono-color: #FFFFFF;
+    --texto-primario-color: #212121;
+    --contraste-primario: #ffd166;
+    --texto-secundario-color: #8174ab;
+    --margenes-color: #c1cae0;
+    */
+    /*paleta 4 morado-azul moztaza
+    --primario-oscuro-color: #776D9C;
+    --primario-claro-color: #A9DDD6;
+    --primario-color: #A3BAC7;
+    --texto-icono-color: #FFFFFF;
+    --texto-primario-color: #212121;
+    --contraste-primario: #E3B23C;
+    --texto-secundario-color: #C9CECF;
+    --margenes-color: #DCAB6B;
+    */
+    /*paleta 5 azul-gindo
+    --primario-oscuro-color: #1446A0;
+    --primario-claro-color: #B7C4E1;
+    --primario-color: #577AFB;
+    --texto-icono-color: #FFFFFF;
+    --texto-primario-color: #212121;
+    --contraste-primario: #E54F6D;
+    --texto-secundario-color: #DBF4A7;
+    --margenes-color: #EB5D47;
+    */
+    /*========== Font and typography ==========*/
+}
+
+
+/*1*/
+
+
+/* CAMBIAR BACKGROUND DE BODY */
+
+body.dark-theme {
+    --title-color: #F1F3F2;
+    --text-color: #e2d3d3;
+    --body-color: #2a2a2e;
+    --container-color: #27302C;
+}
+
+
+/*body*/
+
+body {
+    font-family: var(--font-p);
+    font-size: var(--h0-font-size);
+    line-height: calc(var(--h0-font-size) + 0.4rem);
+    background-color: var(--body-color);
+    color: var(--text-color);
+}
+
+
+/*Fin body*/

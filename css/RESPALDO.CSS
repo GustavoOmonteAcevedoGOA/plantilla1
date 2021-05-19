@@ -1,0 +1,178 @@
+/*header*/
+
+.orden-header {
+    display: flex;
+    height: 7rem;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.logo {
+    width: 20%;
+    margin-top: 1rem;
+}
+
+.orden-navegacion {
+    text-decoration: none;
+}
+
+.nav a {
+    color: #0060df;
+    text-decoration: none;
+    font-size: 1.8rem;
+    margin-right: 2rem;
+}
+
+
+/*fin header*/
+
+
+/*primera seccion*/
+
+.primera-seccion {
+    display: flex;
+    justify-content: space-between;
+}
+
+.p-s-divtamaño {
+    flex-basis: calc(50% - 2rem);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.texto h1 {
+    padding: 0 10% 0 10%;
+}
+
+.texto p {
+    justify-content: center;
+    padding: 0 10% 0 10%;
+}
+
+.cuadro {
+    display: flex;
+    justify-content: center;
+    background-color: #e7ffff;
+}
+
+.cuadro img {
+    flex-basis: 35rem;
+}
+
+
+/*fin primera seccion*/
+
+
+/*segunda seccion*/
+
+.main-background {
+    background-color: #ededf0;
+    padding-bottom: 4rem;
+}
+
+.segunda-seccion {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.s-s-divtamaño {
+    flex: 0 0 calc(25% - 2rem);
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff;
+    padding: 1.5rem;
+}
+
+.s-s-divtamaño h2 {
+    font-size: 1.8rem;
+    margin: 0.5rem auto;
+}
+
+.s-s-divtamaño p {
+    font-size: 1.4rem;
+}
+
+
+/*Fin segunda seccion*/
+
+
+/*tercera seccion*/
+
+.nuestra {
+    margin: 5rem auto;
+    display: flex;
+    width: 30rem;
+    color: white;
+    background-color: #000000;
+    font-weight: 900;
+    justify-content: center;
+}
+
+.tercera-seccion {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.t-s-divtamaño {
+    display: flex;
+    flex-basis: calc(50% - 2rem);
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff;
+}
+
+.t-s-iconos {
+    justify-content: center center;
+    width: 10rem;
+}
+
+.t-s-divtamaño a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.t-s-divtamaño h3 {
+    font-size: 1.8rem;
+    font-weight: 900;
+    line-height: 2rem;
+    margin-bottom: 0rem;
+}
+
+.t-s-divtamaño p {
+    margin: 0 auto;
+    line-height: 5rem;
+}
+
+
+/*Fin tercera seccion*/
+
+.cuarta-seccion {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+/*cuarta seccion*/
+
+
+/*
+todos lo inicios de seccion son lo mismo
+seria volverlo global
+
+
+
+la imagenes definir tamaño minimo y en media ir bajando el tamaño
+
+
+
+
+*/
+
+
+/*Fin cuarta seccion*/
