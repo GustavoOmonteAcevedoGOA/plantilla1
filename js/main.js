@@ -111,11 +111,11 @@ if (selectedTheme) {
     themeButton.classList[selectedIcon === 'bx-moon' ? 'add' : 'remove'](iconTheme)
         /* agregar cambios de color */
     if (selectedTheme === 'dark') {
-        logo.src = "img/_MG_logo_D.png";
+        logo.src = "img/MGlogoD.png";
         clogo.classList.add('c-logo-d')
 
     } else {
-        logo.src = "img/_MG_logo.png"
+        logo.src = "img/MGlogo.png"
         clogo.classList.remove('c-logo-d')
     }
 
@@ -131,10 +131,10 @@ themeButton.addEventListener('click', () => {
 
     /* agregar cambios de color */
     if (document.body.classList.contains(darkTheme)) {
-        logo.src = "img/_MG_logo_D.png"
+        logo.src = "img/MGlogoD.png"
         clogo.classList.add('c-logo-d')
     } else {
-        logo.src = "img/_MG_logo.png"
+        logo.src = "img/MGlogo.png"
         clogo.classList.remove('c-logo-d')
     }
     // We save the theme and the current icon that the user chose
