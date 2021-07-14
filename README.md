@@ -36,12 +36,6 @@
 
 ![screenshot](https://github.com/GustavoOmonteAcevedoGOA/plantilla1/blob/main/img/Informacion.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
@@ -60,5 +54,5 @@ This application/site was created as practice to demonstrate the advancement of 
 
 ## Contact
 
--Linkedin [GustavoOmonteAcevedo](https://www.linkedin.com/in/gustavo-omonte-acevedo/)
+- Linkedin [GustavoOmonteAcevedo](https://www.linkedin.com/in/gustavo-omonte-acevedo/)
 - GitHub [GustavoOmonteAcevedo](https://github.com/GustavoOmonteAcevedoGOA)
