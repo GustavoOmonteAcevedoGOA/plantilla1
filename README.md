@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://www.figma.com/file/2jVBTSKeCYF0dIN6fi0stX/recipe-blog-challenge?node-id=1%3A7">
+    <a href="https://github.com/GustavoOmonteAcevedoGOA/plantilla1">
       Code
     </a>
     <span> | </span>
-    <a href="https://devchallenges4.netlify.app/">
+    <a href="https://siteinformation.netlify.app/">
       Demo
     </a>
     
@@ -26,9 +26,8 @@
 - [Overview](#overview)
 - [Built With](#built-with)
 - [Features](#features)
-- [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
 
 <!-- OVERVIEW -->
 
@@ -45,7 +44,6 @@ JS
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as practice to demonstrate the advancement of knowledge
 
